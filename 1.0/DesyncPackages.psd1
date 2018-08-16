@@ -7,5 +7,5 @@ PowerShellVersion = '3.0'
 DotNetFrameworkVersion = '4.0'
 CLRVersion = '4.0'
 AliasesToExport = @()
-FunctionsToExport = 'Desync-Packages'
+FunctionsToExport = '{Desync-Packages, Branch-Packages}'
 }
